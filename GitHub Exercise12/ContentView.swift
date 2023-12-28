@@ -21,6 +21,7 @@ struct ContentView: View {
                 .foregroundStyle(Color.secondary)
                 .fontWeight(.medium)
                 .font(.title)
+            Text("Mommy")
         }
         .padding()
     }
